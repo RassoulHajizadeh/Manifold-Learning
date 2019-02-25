@@ -6,6 +6,7 @@ My majority is Machine Learning and Pattern Recognition. My Ph.D. dissertation t
 List of the implemented manifold learning methods:
 -	Locally Linear Embedding (LLE),
 -	Laplacian Eigenmap (LEM),
+- Locality Preserving Projection (LPP),
 -	Mutual Neighborhood based LLE (MN-LLE),
 -	Mutual Neighborhood based LEM (MN-LEM),
 -	Diagonal Loading based LLE (DL-LLE),
