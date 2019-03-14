@@ -28,7 +28,7 @@ end;
 
 temp_W = zeros(N);
 for c2 =1:N
-    temp_W(c2,neighborhood(:,c2))=temp_W(:,c2);
+    temp_W(c2,neighborhood(:,c2))=W(:,c2);
 end
 M = (eye(N)-temp_W)'*(eye(N)-temp_W);
 
